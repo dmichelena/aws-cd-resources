@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "aws-lambda-sns": "^1.0.3"
+    }
+}
